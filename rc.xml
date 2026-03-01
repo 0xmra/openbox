@@ -207,9 +207,9 @@
         <command>wezterm</command>
       </action>
     </keybind>
-    <keybind key="W-S-Return">
+    <keybind key="A-o">
       <action name="Execute">
-        <command>tilix --quake</command>
+        <command>obsidian</command>
       </action>
     </keybind>
     <keybind key="A-b">
