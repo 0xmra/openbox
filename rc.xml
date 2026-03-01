@@ -232,14 +232,14 @@
         <command>geany</command>
       </action>
     </keybind>
-    <keybind key="W-v">
+    <keybind key="A-v">
       <action name="Execute">
-        <command>pavucontrol</command>
+        <command>pavucontrol</command> <!-- Volume Control -->
       </action>
     </keybind>
     <keybind key="A-d">
       <action name="Execute">
-        <command>Discord</command>
+        <command>discord</command>
       </action>
     </keybind>
     <!-- Desktop/Workspace Switching -->
@@ -276,12 +276,12 @@
         <to>4</to>
       </action>
     </keybind>
-    <!--
-    <keybind key="W-5">
+    <keybind key="A-0">
       <action name="GoToDesktop">
         <to>5</to>
       </action>
     </keybind>
+    <!--
     <keybind key="W-6">
       <action name="GoToDesktop">
         <to>6</to>
@@ -302,12 +302,12 @@
         <to>9</to>
       </action>
     </keybind>
-    -->
     <keybind key="A-0">
       <action name="GoToDesktop">
         <to>10</to>
       </action>
     </keybind>
+    -->
     <!-- Send to Desktop Keybindings Section -->
     <keybind key="W-S-1">
       <action name="SendToDesktop">
@@ -333,13 +333,13 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <!--
     <keybind key="W-S-5">
       <action name="SendToDesktop">
         <to>5</to>
         <wrap>no</wrap>
       </action>
     </keybind>
+    <!--
     <keybind key="W-S-6">
       <action name="SendToDesktop">
         <to>6</to>
@@ -364,13 +364,13 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    -->
     <keybind key="W-S-0">
       <action name="SendToDesktop">
         <to>10</to>
         <wrap>no</wrap>
       </action>
     </keybind>
+    -->
     <!-- Window Management - Positioning -->
     <keybind key="W-Right">
       <action name="UnmaximizeFull"/>
