@@ -255,6 +255,7 @@
         <wrap>no</wrap>
       </action>
     </keybind>
+    <!-- Send to Desktop Navigation Section -->
     <keybind key="W-1">
       <action name="GoToDesktop">
         <to>1</to>
@@ -305,6 +306,7 @@
         <to>10</to>
       </action>
     </keybind>
+    <!-- Send to Desktop Keybindings Section -->
     <keybind key="W-S-1">
       <action name="SendToDesktop">
         <to>1</to>
