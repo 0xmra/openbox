@@ -212,22 +212,22 @@
         <command>tilix --quake</command>
       </action>
     </keybind>
-    <keybind key="W-b">
+    <keybind key="A-b">
       <action name="Execute">
-        <command>firefox-esr</command>
+        <command>brave-browser-stable</command>
       </action>
     </keybind>
-    <keybind key="W-S-b">
+    <keybind key="A-S-b">
       <action name="Execute">
-        <command>firefox-esr -private-window</command>
+        <command>brave-browser --incognito</command>
       </action>
     </keybind>
-    <keybind key="W-f">
+    <keybind key="A-f">
       <action name="Execute">
         <command>thunar</command>
       </action>
     </keybind>
-    <keybind key="W-e">
+    <keybind key="A-g">
       <action name="Execute">
         <command>geany</command>
       </action>
@@ -237,7 +237,7 @@
         <command>pavucontrol</command>
       </action>
     </keybind>
-    <keybind key="W-d">
+    <keybind key="A-d">
       <action name="Execute">
         <command>Discord</command>
       </action>
