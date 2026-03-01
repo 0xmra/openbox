@@ -276,6 +276,7 @@
         <to>4</to>
       </action>
     </keybind>
+    <!--
     <keybind key="W-5">
       <action name="GoToDesktop">
         <to>5</to>
@@ -301,6 +302,7 @@
         <to>9</to>
       </action>
     </keybind>
+    -->
     <keybind key="W-0">
       <action name="GoToDesktop">
         <to>10</to>
@@ -331,6 +333,7 @@
         <wrap>no</wrap>
       </action>
     </keybind>
+    <!--
     <keybind key="W-S-5">
       <action name="SendToDesktop">
         <to>5</to>
@@ -361,6 +364,7 @@
         <wrap>no</wrap>
       </action>
     </keybind>
+    -->
     <keybind key="W-S-0">
       <action name="SendToDesktop">
         <to>10</to>
