@@ -497,6 +497,7 @@
         </finalactions>
       </action>
     </keybind>
+    <!-- 
     <keybind key="A-S-Tab">
       <action name="PreviousWindow">
         <dialog>list</dialog>
@@ -508,7 +509,8 @@
         </finalactions>
       </action>
     </keybind>
-    <keybind key="C-A-Down">
+    -->
+    <keybind key="A-Tab">
       <action name="NextWindow">
         <dialog>list</dialog>
         <bar>yes</bar>
