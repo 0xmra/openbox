@@ -251,13 +251,13 @@
     <keybind key="C-A-Left">
       <action name="GoToDesktop">
         <to>left</to>
-        <wrap>no</wrap>
+        <wrap>yes</wrap>
       </action>
     </keybind>
     <keybind key="C-A-Right">
       <action name="GoToDesktop">
         <to>right</to>
-        <wrap>no</wrap>
+        <wrap>yes</wrap>
       </action>
     </keybind>
     <!-- Send to Desktop Navigation Section -->
@@ -313,6 +313,19 @@
       </action>
     </keybind>
     -->
+    <!-- Shifting Windows to Other Desktop -->
+    <keybind key="C-S-A-Right">
+      <action name="SendToDesktop">
+        <to>right</to>
+        <wrap>yes</wrap>
+      </action>
+    </keybind>
+    <keybind key="C-S-A-Left">
+      <action name="SendToDesktop">
+        <to>left</to>
+        <wrap>yes</wrap>
+      </action>
+    </keybind>
     <!-- Send to Desktop Keybindings Section -->
     <keybind key="W-S-1">
       <action name="SendToDesktop">
