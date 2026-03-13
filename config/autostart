@@ -8,9 +8,3 @@ feh --bg-fill ~/.config/openbox/wallpaper/bluemountain.jpg &
 
 ## Polybar or tint
 ~/.config/openbox/polybar/polybar-ob &
- 
-# Power Management & Locking (Add these)
-xfce4-power-manager &
-light-locker &
-
-# Bluetooth: blueman-manager &

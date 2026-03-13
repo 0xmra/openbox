@@ -33,7 +33,7 @@ our $SCHEMA = [
     #          COMMAND                 LABEL              ICON
     {item => ['thunar',       'File Manager', 'system-file-manager']},
     {item => ['wezterm',            'Terminal',     'utilities-terminal']},
-    {item => ['brave-browser-stable', 'Web Browser',  'web-browser']},
+    {item => ['brave', 'Web Browser',  'web-browser']},
     {item => ['~/.config/openbox/scripts/help',            'Help',  'system-run']},
 
     {sep => 'Categories'},
